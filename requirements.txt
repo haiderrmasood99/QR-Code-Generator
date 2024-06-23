@@ -1,0 +1,5 @@
+tkintertable
+opencv-python
+amzqr
+rembg
+pillow
